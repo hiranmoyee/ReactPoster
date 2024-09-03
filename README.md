@@ -6,5 +6,9 @@ To run the project need to run both backend and frontend part in two different v
 To run frontend command "npm run dev" and for backend "npm start". 
 The react app was created on vite-project.
 Install the dependancies before running the project.
-![Screenshot (100)](https://github.com/user-attachments/assets/408928f1-4045-43f6-af2d-d94f321b4f62)
-![Screenshot (101)](https://github.com/user-attachments/assets/730c7588-f765-4bf9-943a-eab6fdcd3bf7)
+
+![Screenshot (100)](https://github.com/user-attachments/assets/6c9f149c-1390-44d7-a264-165e84cdb2b3)
+
+on click on new post button this model will open
+
+![Screenshot (101)](https://github.com/user-attachments/assets/13b8980c-4259-44ef-b602-dddd586b92a5)
